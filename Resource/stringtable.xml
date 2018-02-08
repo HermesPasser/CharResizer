@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<stringtable>
+    <about 
+        en="About"
+        pt="Sobre"
+    />  
+
+    <english 
+        en="English"
+        pt="Inglês"
+    />  
+  
+    <exit 
+        en="Exit"
+        pt="Sair"
+    />    
+ 
+    <file
+        en="File"
+        pt="Arquivo"
+    />  
+  
+    <help
+        en="Help"
+        pt="Ajuda"
+    /> 
+  
+    <generate 
+        en="Generate"
+        pt="Gerar"
+    />
+  
+    <language 
+        en="Language"
+        pt="Idioma"
+    />  
+
+  	<multiplier
+        en="Multiplier"
+        pt="Multiplicador"
+    />
+  
+    <pngFiles 
+        en="Png Files"
+        pt="Arquivos Png"
+    /> 
+    
+    <portuguese 
+        en="Portuguese"
+        pt="Português"
+    />  
+
+   <!-- não usado -->
+	  <sourceCode
+        en="Source Code"
+        pt="Código Fonte"
+    />
+
+    <!-- Messages -->
+    
+    <helpMsg 
+        en="Written by Hermes Passer to Alex Lupox and is licensed under creative commons"
+        pt="Escrito por Hermes Passer para Alex Lupox e licenciado sobre a licença creative commons"
+    /> 
+    
+    <useCharTemplateMsg 
+        en="Use one character template"
+        pt="Usar templete para um char"
+    /> 
+</stringtable>
